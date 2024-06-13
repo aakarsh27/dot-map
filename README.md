@@ -1,3 +1,5 @@
-# DOT MAP (html+css)
-## frameworks map
-dot map is just a hovering dotted map of the world where lights in dots continously hovers throughout time
+# DOT MAP
+
+## Description
+This repository features an interactive, animated dot map of the world created using HTML and CSS. The map displays a series of hovering dots that continuously light up, providing a visually appealing effect.
+
